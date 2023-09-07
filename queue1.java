@@ -1,4 +1,5 @@
-//queue implementing with array,        add_O(1), delete_O(n)
+// queue implementing with array,       
+//add_O(1), delete_O(n)
 public class queue1 {
     static class Queue {
         static int arr[];
